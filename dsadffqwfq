@@ -1,1 +1,7 @@
-print("hi")
+function log()
+    print("asdf")
+end
+
+if _G.KEY == "KeyHere" and game.Players.LocalPlayer.Name == "NameHere" and game.Players.LocalPlayer.UserId == UserId then
+    log()
+end
