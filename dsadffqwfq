@@ -54,7 +54,7 @@ TextButton.TextScaled = true
 TextButton.TextSize = 14.000
 TextButton.TextWrapped = true
 TextButton.MouseButton1Down:Connect(function()
-if keyin.Text == "6KdaYzJbePVJ6YCes2ESKDZKv2v7wusV" and game.Players.LocalPlayer.Name == "1ruitt" and game.Players.LocalPlayer.UserId == 275535162 then
+if keyin.Text == "KeyHere" and game.Players.LocalPlayer.Name == "NameHere" and game.Players.LocalPlayer.UserId == IDHere then
     Frame.Visible = false
     loadstring(game:HttpGet('https://admin-hosting1.000webhostapp.com/hwfqwfqefwegwegwegwegw.lua'))()
     else
